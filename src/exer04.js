@@ -1,6 +1,6 @@
 nome = "Bruna";
-i = nome.length -1;
-while( i >= 0){
-    console.log(nome[i]);
-    i = i - 1;
+pos = nome.length -1;
+while( pos >= 0){
+    console.log(nome[pos]);
+    pos = pos - 1;
 }
