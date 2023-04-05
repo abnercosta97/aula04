@@ -1,3 +1,4 @@
 nome = "Ana Maria";
-console.log(nome);
+quantidade = nome.length;
+console.log("Quantidade:", quantidade);
 
