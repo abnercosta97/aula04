@@ -1,2 +1,3 @@
 nome = "Caleb Costa";
-console.log("Primeiro:", nome[0]);
+primeiro = nome[0];
+console.log("Primeiro:", primeiro);
